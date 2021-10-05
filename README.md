@@ -2,7 +2,7 @@
 This is a C module that converts C integers to comma separated formatted string using a Fortran function. This depicts the various techniques in manipulating integers and strings in Fortran.
 
 
-# Input integers
+<h2> Input integers</h2>
  int cinputnum = 123;
  
  int cinputnuma = 1234;
@@ -20,7 +20,7 @@ This is a C module that converts C integers to comma separated formatted string 
  int cinputnumg = 1234567891;
  
 
-# Output string
+<h2> Output string </h2>
  First int 123                                                
 
  Second int 1,234 
