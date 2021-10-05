@@ -20,7 +20,7 @@ This is a C module that converts C integers to comma separated formatted string 
  int cinputnumg = 1234567891;
  
 
-<h2> Output string </h2>
+<h2> Output strings </h2>
  First int 123                                                
 
  Second int 1,234 
